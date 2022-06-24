@@ -16,4 +16,4 @@ services:
       --data-dir=/mnt/dero
       --p2p-bind=0.0.0.0:18090
       --rpc-bind=0.0.0.0:10102
-      --integrator-address YOUR_WALLET_ADDRESS
+      --integrator-address dero1qyzs20ggarpu0llznfujfrxy2jw4msz3xmq22skm0s54tuhntx4dsqg9f2l4f
